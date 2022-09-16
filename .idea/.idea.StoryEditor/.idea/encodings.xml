@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Assets/happyEditor/Editor/HorizontalPanelContainer.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/happyEditor/Editor/Panel/StoryListPanel.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/happyEditor/Editor/StoryWin.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/nodeEditor/Editor/ConnectionPoint.cs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Assets/nodeEditor/Editor/EditorWindow/StoryTreePanel.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/nodeEditor/Editor/Nodes/NodeBase.cs" charset="UTF-8" />
+  </component>
+</project>
